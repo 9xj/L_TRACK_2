@@ -1,0 +1,25 @@
+{
+  "background": {
+    "scripts": ["main.js"]
+  },
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "description": "Linewize ChromeWindow provides visibility into student internet access in the classroom.",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvZqQNqG/2IV50/ZBbDBX2sNWRGSkt9iFTArH/bnGT2ldfO4PvgV+nIgZedwqL2XkJefS8h9yE0zluU+F/ymjxp61X/9TIErHtWQqNHPNS86ei5OoMppoayTOho8aJ4lkUPlDsoPbVAOmj8BKqWpWLmU1dQInOzbbPag3FjDCHCzM9uJ8fsULQ6uNYk17ALIy8l4vl03jpF0OfzXRLQ/jFnXXKrEPm2AnntR1f25WgWIR2N/IB2gfzMLh17sxg1lhGcQj/kUfr8NJ8jKjKVEW9eJmFQ77ocMtMK9YFDQfeHyUNV0Z0y/TcUGgwEpq4R9M6R/uAu+ygpwLrYj1xT8SbQIDAQAB",
+  "manifest_version": 2,
+  "name": "Linewize ChromeWindow",
+  "permissions": [
+    "activeTab",
+    "http://localhost:1116/",
+    "tabs",
+    "\u003Call_urls>",
+    "identity",
+    "identity.email",
+    "webRequest",
+    "webRequestBlocking"
+  ],
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "version": "1.1.5"
+}

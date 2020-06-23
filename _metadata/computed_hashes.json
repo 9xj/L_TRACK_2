@@ -1,0 +1,56 @@
+{
+  "file_hashes": [
+    {
+      "block_hashes": ["IEpxNDFm+cPwJBVd5h3XZSEhOwmrGUWqDMC6J8k7o5o="],
+      "block_size": 4096,
+      "path": "CHANGES.md"
+    },
+    {
+      "block_hashes": ["KckPatEFjfHglbQts1ina9eoSw0MgtYEG+gju+doMls="],
+      "block_size": 4096,
+      "path": "LICENSE"
+    },
+    {
+      "block_hashes": ["09898Fe7P2uhBHuGt/Q5Y7TRbb4JU9CIyIt7k9CXinA="],
+      "block_size": 4096,
+      "path": "README.md"
+    },
+    {
+      "block_hashes": ["nuH6qwJgiGa4WruDruOEpxWHtIT6A8ec/2FWyFUi9L0="],
+      "block_size": 4096,
+      "path": "icon.ico"
+    },
+    {
+      "block_hashes": [
+        "xj3eVk681IyeW5xn1CyW3t32/EC44SiiIIC6IL8iAXM=",
+        "C83/IWOR3H18ipFlL8/1ExzAfsydgmThEDiuvOrpUBI=",
+        "0E5/VxTvKHKkPqs+GbYvRbmjPba0EtjOPQA56gG9GXg=",
+        "GZ2C42BcbGlWMpL8M2uPmWkPY1DPl3gfkpcZp3s73+I=",
+        "AptRr7otyUPJKuc8E5G+jhYwUr0UUXFpguSwU0Io/GU=",
+        "8qpLaoG8uOdZljCVGkBB+eIuL5CQUZkNRehvD6nuhhU="
+      ],
+      "block_size": 4096,
+      "path": "main.js"
+    },
+    {
+      "block_hashes": ["59QaDmjA4oeXmdY1l/GpPSpoAu+zf80oCdacckG9huE="],
+      "block_size": 4096,
+      "path": "popup.html"
+    },
+    {
+      "block_hashes": ["EHmIPMlDtnT4FbJnnXne7t8bBtLoSTPcbm5MeeZxTAU="],
+      "block_size": 4096,
+      "path": "popup.js"
+    },
+    {
+      "block_hashes": [
+        "wMOiAPgwuo8sokeU7fIL3xsDGVkcAhCBl5Lndor3/ww=",
+        "CnqwUTb6k8qsr3vk4wnXvyBRUO2nTNjRZD6mlRw+Jsw=",
+        "gi2fxOA2uaGPjbtEQTV0LzJRZ7ibcBoO+9W0Shr+Y58="
+      ],
+      "block_size": 4096,
+      "path": "storeIcon.png"
+    }
+  ],
+  "version": 2
+}
